@@ -1,4 +1,4 @@
-# Simple External REST Query APIs for WordPress
+# Simple External REST APIs for WordPress
 Simple plugin with a Menu Page to see the results of an external REST API Query in WordPress.
 
 ## Installation
