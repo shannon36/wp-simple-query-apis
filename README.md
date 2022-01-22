@@ -7,7 +7,7 @@ Simple plugin with a Menu Page to see the results of an API Query in WordPress.
 1. Install and activate the plugin through the 'Plugins' screen in WordPress
 1. View the Admin Menu to see the APIs you are querying in the code.
 
-### Additions (22 Jan 2022)
+## Additions (22 Jan 2022)
 
 1. Included shortcode functions to view from the frontend.
 1. Altered output format to obtain text instead. 
