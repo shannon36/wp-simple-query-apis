@@ -35,7 +35,7 @@ function get_send_data() {
 		
 	} 
 	
-//decodes JSON objects and shows as text
+//decodes JSON objects and shows as text in Montserrat
         $results = json_decode( wp_remote_retrieve_body( $response ) );
 		echo '<p style="font-family: Montserrat;font-weight: bold; font-size: medium;">' . number_format($results) . '</p>';
 
