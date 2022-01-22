@@ -14,4 +14,4 @@ Simple plugin with a Menu Page to see the results of an API Query in WordPress.
 
 ## Sources
 
-1. Please refer to ACKNOWLEDGEMENTS.txt for acknowledgements. 
+1. Please refer to ACK.txt for acknowledgements. 
