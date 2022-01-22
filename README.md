@@ -11,3 +11,7 @@ Simple plugin with a Menu Page to see the results of an API Query in WordPress.
 
 1. Included shortcode functions to view from the frontend.
 1. Altered output format to obtain text instead. 
+
+## Sources
+
+1. Please refer to AUTHORS.txt and LICENSE.txt for acknowledgements. 
